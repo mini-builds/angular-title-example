@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 64px;
+}
+
+.pass-button {
+  background-color: #B6E2D3;
+  color: #fff;
+  text-align: center;
+  font-size: 60pt;
+  padding: 64px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
